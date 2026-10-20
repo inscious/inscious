@@ -1,75 +1,152 @@
+
 <div align="center">
 
-Hey, I'm Saul 👋
-Software developer · Product builder · Field technology enthusiast
-Building practical software for real-world work.
+# Hey, I'm Saul 👋
 
-Based in San Diego, California · Working across web, desktop, infrastructure, and creative tools.
+### Software Developer • Product Builder • Field Technology Enthusiast
 
+*Building practical software for real-world workflows, operations, and creative technology.*
 
+<p>
+  <a href="https://github.com/inscious">
+    <img src="https://img.shields.io/badge/GitHub-inscious-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-San%20Diego%2C%20CA-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Software%20%2B%20Systems-111827?style=for-the-badge" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=inscious&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
 
-About me
-I'm a developer and hands-on technologist interested in the intersection of software, infrastructure, and the physical world. I enjoy taking complex, everyday workflows and turning them into thoughtful products that people can actually use.
+---
 
-My work spans workforce operations, field services, computer vision, media tools, personal software, and developer workflows. I'm especially interested in systems that are reliable, maintainable, privacy-conscious, and designed to grow beyond the prototype.
-- 🛠️ Build for real workflows: tools for technicians, crews, small businesses, and makers.
-- 🧩 Think in systems: data models, clear roles, testable behavior, and durable architecture.
-- 🖥️ Work across platforms: web apps, native macOS experiments, home networking, and media.
-- 🎛️ Explore creative technology: audio, video, image libraries, live production, and interactive interfaces.
-Selected projects
-A look at what I'm building and exploring. Some projects are still in development or kept in private repositories; descriptions here are intentionally high-level and do not imply a public release.
+## 🚀 About Me
 
-Project	What I'm building	Area
-Show Board	A workforce operations platform exploring apprenticeship work logs, time evidence, document workflows, role-based access, and organization-aware architecture.	Workforce software
-Reticle	A camera-control and computer-vision project exploring object tracking, PTZ control, and operational safety.	Vision / hardware
-Field Technology Services	A service website and workflow concept for residential and small-business networking, cameras, and technology support.	Field services
-IncomeOS	A personal finance workspace designed around variable income, bills, goals, and safer day-to-day spending decisions.	Personal software
-Development Command Center	A structured environment for managing engineering tasks, verification evidence, decisions, and project handoffs.	Developer tools
-Rigora	An operations interface concept for workshop, warehouse, quality-control, and event-production teams.	Operations / UX
-Folio	A local-first photo and video library concept with rich browsing, organization, and export workflows.	Media software
-Stagecraft	A native macOS live-visuals experiment exploring media playback, cueing, composition, and operator workflows.	Creative technology
+I'm a software developer and hands-on technologist who enjoys connecting **software, infrastructure, and physical-world workflows**.
 
+I build products that solve concrete problems — particularly where **operations, field work, networking, cameras, desktop software, and media workflows** intersect.
 
-Technologies & interests
-Application development
-TypeScript · JavaScript · React · Next.js · HTML/CSS · SQL · PostgreSQL · Swift · Go · Rust
+> **Build concrete. Design abstract.**
+>
+> Start with a real workflow, validate the problem, and build systems that can scale cleanly.
 
-Engineering practices
-Testing & CI · Git · API design · Access control · Data modeling · Documentation · Security-minded development
+---
 
-Systems & hardware
-macOS · Linux · Networking · VLANs · DNS · Self-hosting · IP cameras & NVRs · AV systems
+## 🧰 Tech Stack
 
-Creative technology
-Audio software · Real-time visuals · Media libraries · Computer vision · Interface design
-How I approach building
-Understand the real workflow
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,postgres,go,rust,swift,git,github,linux,bash" alt="Technology Stack" />
+
+</div>
+
+### Areas I Work In
+
+- **Web Development:** TypeScript, JavaScript, React, Next.js, HTML, CSS
+- **Data & Systems:** PostgreSQL, SQL, local-first architecture, data modeling
+- **Platforms:** macOS, Linux, desktop applications, native tooling
+- **Engineering:** Git, automated testing, CI/CD, documentation, access control
+- **Infrastructure:** DNS, VLANs, IP cameras, NVRs, self-hosting, AV systems
+- **Creative Technology:** Computer vision, media libraries, real-time visuals
+
+---
+
+## 🛠️ Featured Projects
+
+Some of my projects are active prototypes or maintained in private repositories. Descriptions are intentionally high-level.
+
+| Project | Description | Category |
+|---------|-------------|----------|
+| **Show Board** | Workforce operations platform featuring work logs, documentation, evidence, and role-based workflows | Workforce Software |
+| **Reticle** | Camera control, tracking, PTZ integration, and reliable operator tooling | Computer Vision |
+| **Development Command Center** | Engineering workflow coordination, verification, decision tracking, and structured handoffs | Developer Tools |
+| **Field Technology Services** | Residential and small-business technology services platform | Networking / IT |
+| **IncomeOS** | Personal finance software designed for irregular income and informed spending decisions | Finance |
+| **Rigora** | Shift management, workstation operations, QC, and team handoff workflows | Operations |
+| **Folio** | Local-first photo and video organization, browsing, and export experiences | Media |
+| **Stagecraft** | Native macOS media playback, visual composition, and show-control experiments | Live Production |
+
+---
+
+## 🧠 Engineering Philosophy
+
+```text
+Understand the real problem
           ↓
 Prototype the experience
           ↓
-Design clear boundaries
+Define system boundaries
           ↓
-Build, test, and verify
+Implement and integrate
           ↓
-Improve through real use
-I value simple solutions to concrete problems, thoughtful user experiences, and engineering decisions that are easy to explain and maintain.
-Currently exploring
-- Field-ready software that works under real operational constraints.
-- Local-first and privacy-conscious personal tools.
-- Robust camera, media, and AV workflows.
-- Better ways to organize development, verification, and project knowledge.
-GitHub activity
+Test and verify
+          ↓
+Refine through real-world use
+```
+
+**Principles I value:**
+
+- Clean and maintainable architecture
+- Practical, intuitive interfaces
+- Secure and reliable systems
+- Automated testing and verification
+- Long-term scalability
+- Thoughtful documentation
+- Real-world usability
+
+---
+
+## 🔭 Currently Exploring
+
+- Field-ready software for technicians and operations teams
+- Privacy-conscious and local-first desktop applications
+- Computer vision and intelligent camera systems
+- Networking, self-hosting, and infrastructure
+- Creative technology and media-production tools
+- Developer automation and engineering workflows
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=inscious&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inscious&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
-<sub>These third-party cards summarize public GitHub data only. They may be unavailable if the external service is down; private repositories and their languages are not disclosed.</sub>
+---
+
+## 🏆 GitHub Achievements
+
 <div align="center">
 
-Interested in useful software, dependable systems, and creative technical work?
+<img src="https://github-profile-trophy.vercel.app/?username=inscious&theme=flat&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
-Explore my public repositories · Follow my work
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@inscious-181717?style=for-the-badge&logo=github)](https://github.com/inscious)
+
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-0969DA?style=for-the-badge&logo=github)](https://github.com/inscious?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! 👋
+
+*Interested in practical software, reliable systems, and real-world technology.*
+
+**[Explore My Repositories](https://github.com/inscious?tab=repositories)**
+
 </div>
