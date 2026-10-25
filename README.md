@@ -3,9 +3,9 @@
 
 # Hey, I'm Saul 👋
 
-### Tech Enthusiast · Hobbyist · Curious Builder
+### Technology Enthusiast | Hobbyist | Curious Builder
 
-*Exploring what I can build at the intersection of software, hardware, and everyday problems.*
+*Exploring technology, experimenting with ideas, and creating projects that solve everyday problems.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-inscious-181717?style=for-the-badge&logo=github)](https://github.com/inscious)
 
@@ -21,36 +21,42 @@
 
 ## 👋 A Little About Me
 
-I'm a **technology enthusiast and hobbyist** who enjoys figuring out how things work and turning ideas into projects.
+I'm a **technology enthusiast and hobbyist** who enjoys learning how things work, exploring new ideas, and experimenting with different technologies.
 
-I've explored web development in the past, but eventually stepped away from coding for a while. As AI-assisted development tools improved, I found myself excited to build again. I started experimenting with ideas I'd been sitting on — and those experiments grew into some interesting projects.
+I became interested in web development a few years ago and spent some time learning to code. Eventually, I stepped away from it, but advances in AI coding tools renewed my interest in creating software.
 
-These days, I spend more time **coming up with ideas, shaping product experiences, experimenting, testing, and refining** than writing every line of code myself. AI coding tools help me bring ideas to life, but I also want to keep improving my own programming skills and better understand the systems I'm building.
+Since then, I've been experimenting with ideas I've had for a while and turning them into actual projects. What started as a few experiments has grown into a collection of applications and tools that I'm continually improving.
 
-I gravitate toward practical problems involving **field work, operations, networking, cameras, desktop apps, and audio/video technology**.
+I don't consider myself an experienced programmer. Most of my time goes into planning features, designing interfaces, testing functionality, solving problems, and figuring out how everything should work together. AI tools help me with implementation, but I want to continue developing my own programming skills so I can better understand, maintain, and eventually write more of the code myself.
+
+My interests extend beyond software. I enjoy networking, computers, cameras, electronics, audio and video equipment, and pretty much anything involving technology.
+
+I especially enjoy projects that connect software with practical problems or physical systems.
 
 > **Build concrete. Design abstract.**
 >
-> Start with a real problem, try something, learn from it, and keep improving.
+> Start with a real problem, experiment with possible solutions, and improve through experience.
 
 ---
 
-## 🛠️ Projects I'm Exploring
+## 🛠️ Projects I'm Working On
 
-These are personal projects and experiments at different stages. **Some are prototypes or kept in private repositories**; they're listed to share what I'm interested in, not to imply that every project is publicly available or production-ready.
+These are some of the personal projects I've been developing and experimenting with. They're all at different stages, from early concepts and prototypes to more developed applications.
 
-| Project | What I'm Building or Exploring | Area |
+Some repositories are private because they're still being developed, but I enjoy sharing the ideas behind them and the progress I'm making.
+
+| Project | Description | Category |
 | :--- | :--- | :--- |
-| **Show Board** | A workforce operations app for work logs, supporting documents, and different user roles | Field operations |
-| **Reticle** | Experiments with IP cameras, PTZ control, tracking, and operator tools | Cameras & computer vision |
-| **Development Command Center** | A workspace for organizing project tasks, verification, and development handoffs | Developer tooling |
-| **Field Technology Services** | A website and service experience for home and small-business technology help | IT & networking |
-| **IncomeOS** | Tools to plan spending and manage income that changes from month to month | Personal finance |
-| **Rigora** | Shift, workstation, quality-check, and handoff workflows | Operations |
-| **Folio** | A local-first photo and video library concept | Media organization |
-| **Stagecraft** | Experiments with macOS media playback, visuals, and show control | Live production |
+| **Show Board** | An application for managing workforce schedules, work logs, documentation, and other operational tasks. | Workforce Operations |
+| **Reticle** | A project exploring IP camera control, PTZ functionality, object tracking, and camera automation. | Cameras & Computer Vision |
+| **Development Command Center** | A workspace designed to help organize software projects, development tasks, testing, and project workflows. | Developer Tools |
+| **Field Technology Services** | A website and service platform for residential and small business technology support. | IT & Networking |
+| **IncomeOS** | A personal finance application focused on budgeting, managing irregular income, and planning expenses. | Personal Finance |
+| **Rigora** | An application exploring employee scheduling, workstation management, quality control, and operational workflows. | Operations Management |
+| **Folio** | A local photo and video library application focused on organization, browsing, editing, and media management. | Media Management |
+| **Stagecraft** | A macOS application exploring media playback, visual composition, and tools for live production environments. | Live Production |
 
-[**Browse my public repositories →**](https://github.com/inscious?tab=repositories)
+[**Explore My Public Repositories**](https://github.com/inscious?tab=repositories)
 
 ---
 
@@ -62,33 +68,73 @@ These are personal projects and experiments at different stages. **Some are prot
 
 </div>
 
-These are technologies I've encountered through learning, projects, and experiments — **not a claim of expert-level proficiency in all of them**.
+I've worked with or explored a variety of technologies through personal projects, learning, and experimentation.
 
-- **Web & apps:** HTML, CSS, JavaScript, TypeScript, React, Next.js
-- **Data & tools:** PostgreSQL, Git, GitHub, testing, and automation
-- **Systems & devices:** macOS, networking, DNS, VLANs, cameras, and self-hosting
-- **Creative tech:** Audio/video tools, media management, and live-production workflows
+I'm still learning many of them, and I don't claim to be an expert. I enjoy gaining experience and understanding how different tools and technologies work together.
+
+### Web Development
+
+- HTML and CSS
+- JavaScript and TypeScript
+- React and Next.js
+- Node.js
+- Tailwind CSS
+
+### Databases & Development Tools
+
+- PostgreSQL
+- Git and GitHub
+- API integration
+- Automated testing
+- Development workflows and automation
+
+### Systems & Networking
+
+- macOS and Linux
+- Computer networking
+- DNS and VLANs
+- IP cameras and NVR systems
+- Local servers and self-hosted applications
+
+### Creative Technology
+
+- Audio and video production
+- Media management
+- Computer vision
+- Live event technology
+- Desktop applications
 
 ---
 
-## 🧠 How I Like to Build
+## 🧠 How I Approach Projects
 
-**Idea → Prototype → Test → Improve → Learn → Repeat**
+**Idea → Research → Prototype → Test → Improve → Learn**
 
-I enjoy working out how an app should behave, trying different designs, finding bugs, and seeing a project get better with each iteration.
+Most of my projects begin with a simple idea or a problem I'd like to solve.
 
-Right now, AI-assisted development is a big part of how I experiment. A personal goal is to pair that speed with **more hands-on coding, debugging, and a deeper understanding of the code behind my projects**.
+I enjoy researching possible solutions, planning how things should work, experimenting with different approaches, and gradually turning an idea into something functional.
+
+I spend a lot of time reviewing interfaces, testing features, finding bugs, and figuring out how to improve the overall experience.
+
+AI coding tools have made it possible for me to explore projects that would have been much harder to approach on my own. They've also encouraged me to learn more about software architecture, development practices, and the technical decisions behind the applications I'm building.
+
+One of my personal goals is to become more comfortable reading, understanding, debugging, and writing code without relying entirely on these tools.
+
+I'm interested in building things that are useful, reliable, and enjoyable to use.
 
 ---
 
 ## 🔭 Current Interests
 
-- Software that helps technicians and field teams
-- Local-first and privacy-conscious applications
-- IP cameras, networking, and home lab projects
-- Useful desktop tools and project workflows
-- Audio/video, media tools, and creative experiments
-- Getting better at writing, reading, and debugging code
+- Software for technicians, contractors, and field operations
+- Desktop applications and personal productivity tools
+- Privacy-focused applications and local data storage
+- Computer networking and home lab projects
+- IP cameras, automation, and computer vision
+- Audio, video, and live production technology
+- Hardware and software integration
+- Development tools and project automation
+- Improving my programming and problem-solving skills
 
 ---
 
@@ -102,22 +148,40 @@ Right now, AI-assisted development is a big part of how I experiment. A personal
 
 </div>
 
-<sub>These third-party cards reflect available public GitHub data, not every private project or all the work behind them. Cards may occasionally be unavailable.</sub>
+<sub>These statistics are generated from publicly available GitHub activity. Some personal projects and private repositories may not be represented.</sub>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
+
+<div align="center">
 
 [![GitHub Achievements](https://img.shields.io/badge/View-My_GitHub_Achievements-6f42c1?style=for-the-badge&logo=github)](https://github.com/inscious?tab=achievements)
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@inscious-181717?style=for-the-badge&logo=github)](https://github.com/inscious)
+
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-0969DA?style=for-the-badge&logo=github)](https://github.com/inscious?tab=repositories)
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! 👋
+### Thanks for stopping by! 👋
 
-*I'm here to stay curious, keep building, and get better along the way.*
+I'm always exploring new ideas, learning something different, and finding interesting things to build.
 
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-0969DA?style=for-the-badge&logo=github)](https://github.com/inscious?tab=repositories)
+*Stay curious. Keep experimenting. Never stop learning.*
+
+[**Explore My Repositories**](https://github.com/inscious?tab=repositories)
 
 </div>
