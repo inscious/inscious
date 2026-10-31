@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hey, I'm Saul 👋
@@ -42,22 +43,22 @@ I tend to enjoy projects most when they solve a real problem or connect software
 
 ## 🛠️ Projects I'm Working On
 
-These are some of the projects I'm actively building or experimenting with.
+These projects are at different stages. Some have working local builds or limited-access web functionality, while others are interactive prototypes that I'm still refining. I use them to experiment with real workflows, learn new tools, and improve my understanding of how software is built.
 
-They're at different stages. Some are early prototypes, while others have grown into larger applications with their own workflows, testing, data models, and deployment environments.
+**Project status snapshot: October 2026.** A working prototype is not necessarily a public release. Some source code and development environments remain private.
 
-Some repositories are still private while they're being developed.
-
-| Project | Description | Category |
+| Project | What works or is being explored | Current stage |
 | :--- | :--- | :--- |
-| **Show Board** | A workforce operations platform for schedules, work logs, OJT tracking, documentation, and administrative workflows. | Workforce Operations |
-| **Reticle** | IP camera control, PTZ automation, tracking, video, and computer-vision experiments. | Cameras & Computer Vision |
-| **Development Command Center** | A desktop workspace for organizing projects, development tasks, testing, agent workflows, and engineering handoffs. | Developer Tools |
-| **Field Technology Services** | A service platform for residential and small-business networking, cameras, and technology support. | IT & Networking |
-| **IncomeOS** | A personal finance application for budgeting, irregular income, expenses, and planning. | Personal Finance |
-| **Rigora** | An exhibit-operations platform for shop-floor workflow, QC, workstations, manifests, photos, and handoffs. | Operations Management |
-| **Folio** | A local-first photo and video library for organizing, browsing, editing, and managing media. | Media Management |
-| **Stagecraft** | A macOS project focused on media playback, visual composition, and live-production tools. | Live Production |
+| **Show Board** | A web application for show schedules, work logs, on-the-job training hours, documents, and role-based workflows. Core features are working, with additional member and administrative features still being tested and refined. | **Working web platform.** Active development with limited access. |
+| **Reticle** | A local camera-control project with live video, PTZ controls, tracking experiments, and safeguards around camera movement and failures. The focus is on reliability before broader use. | **Working local prototype.** Experimental and not publicly released. |
+| **Development Command Center** | A local workspace for organizing projects, task contracts, verification results, and development handoffs. The longer-term goal is more automated, configurable agent workflows. | **Local MVP.** Core workflows work; agent automation is still being developed. |
+| **Field Technology Services** | An interactive website prototype for home and small-business technology services, including service information and customer-facing pages. | **Website prototype.** Pre-launch, not a confirmed live booking service. |
+| **IncomeOS** | An early application for budgeting around irregular income, tracking expenses, and planning ahead. A local codebase and build checks exist, but the experience is still being developed. | **Early local development.** Not publicly released. |
+| **Rigora** | An interactive exhibit-operations prototype covering shifts, workstation tasks, quality checks, photos, handoffs, and a shop-floor display concept. Several workflows can be explored in the prototype. | **Advanced interactive prototype.** Real-world shop-floor and display testing is still pending. |
+| **Folio** | An interactive photo and video library prototype with media grouping, browsing, basic editing, exporting, and slideshow features. | **Interactive prototype.** Being refined before a fuller application release. |
+| **Stagecraft** | A native macOS experiment with media playback, visual composition, preview/program views, cues, and show-control tools. Core local functionality is working. | **Working local macOS prototype.** External-display and live-use validation remain in progress. |
+
+**About availability:** "Working" means a feature has been implemented or tested in a local or limited environment. It does not mean the app is ready to download, commercially available, or open for public sign-ups.
 
 [**Explore My Public Repositories**](https://github.com/inscious?tab=repositories)
 
