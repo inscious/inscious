@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # Hey, I'm Saul 👋
 
 ### Technology Enthusiast | Hobbyist | Curious Builder
 
-*Exploring technology, experimenting with ideas, and creating projects that solve everyday problems.*
+*Building practical software, experimenting with hardware, and learning by working on real projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-inscious-181717?style=for-the-badge&logo=github)](https://github.com/inscious)
 
@@ -21,40 +20,44 @@
 
 ## 👋 A Little About Me
 
-I'm a **technology enthusiast and hobbyist** who enjoys learning how things work, exploring new ideas, and experimenting with different technologies.
+I'm interested in software, networking, AV systems, computers, cameras, electronics, and the way hardware and software work together.
 
-I became interested in web development a few years ago and spent some time learning to code. Eventually, I stepped away from it, but advances in AI coding tools renewed my interest in creating software.
+I first got into web development a few years ago. I stepped away from it for a while, but newer development tools made it easier for me to come back and start working on ideas I had been sitting on.
 
-Since then, I've been experimenting with ideas I've had for a while and turning them into actual projects. What started as a few experiments has grown into a collection of applications and tools that I'm continually improving.
+Most of the projects here come from something I actually wanted to use, improve, automate, or understand better.
 
-I don't consider myself an experienced programmer. Most of my time goes into planning features, designing interfaces, testing functionality, solving problems, and figuring out how everything should work together. AI tools help me with implementation, but I want to continue developing my own programming skills so I can better understand, maintain, and eventually write more of the code myself.
+A lot of my time goes into planning how features should work, designing interfaces, testing behavior, finding problems, and improving the structure of the applications as they grow.
 
-My interests extend beyond software. I enjoy networking, computers, cameras, electronics, audio and video equipment, and pretty much anything involving technology.
+I'm still building my programming skills and getting more comfortable reading, debugging, and writing code myself.
 
-I especially enjoy projects that connect software with practical problems or physical systems.
+My background and interests also go beyond software. I work with AV technology and spend a lot of time around networking, cameras, displays, computers, audio equipment, and other technical systems.
+
+I tend to enjoy projects most when they solve a real problem or connect software to something physical.
 
 > **Build concrete. Design abstract.**
 >
-> Start with a real problem, experiment with possible solutions, and improve through experience.
+> Start with the real problem, get something working, then improve the structure as you understand it better.
 
 ---
 
 ## 🛠️ Projects I'm Working On
 
-These are some of the personal projects I've been developing and experimenting with. They're all at different stages, from early concepts and prototypes to more developed applications.
+These are some of the projects I'm actively building or experimenting with.
 
-Some repositories are private because they're still being developed, but I enjoy sharing the ideas behind them and the progress I'm making.
+They're at different stages. Some are early prototypes, while others have grown into larger applications with their own workflows, testing, data models, and deployment environments.
+
+Some repositories are still private while they're being developed.
 
 | Project | Description | Category |
 | :--- | :--- | :--- |
-| **Show Board** | An application for managing workforce schedules, work logs, documentation, and other operational tasks. | Workforce Operations |
-| **Reticle** | A project exploring IP camera control, PTZ functionality, object tracking, and camera automation. | Cameras & Computer Vision |
-| **Development Command Center** | A workspace designed to help organize software projects, development tasks, testing, and project workflows. | Developer Tools |
-| **Field Technology Services** | A website and service platform for residential and small business technology support. | IT & Networking |
-| **IncomeOS** | A personal finance application focused on budgeting, managing irregular income, and planning expenses. | Personal Finance |
-| **Rigora** | An application exploring employee scheduling, workstation management, quality control, and operational workflows. | Operations Management |
-| **Folio** | A local photo and video library application focused on organization, browsing, editing, and media management. | Media Management |
-| **Stagecraft** | A macOS application exploring media playback, visual composition, and tools for live production environments. | Live Production |
+| **Show Board** | A workforce operations platform for schedules, work logs, OJT tracking, documentation, and administrative workflows. | Workforce Operations |
+| **Reticle** | IP camera control, PTZ automation, tracking, video, and computer-vision experiments. | Cameras & Computer Vision |
+| **Development Command Center** | A desktop workspace for organizing projects, development tasks, testing, agent workflows, and engineering handoffs. | Developer Tools |
+| **Field Technology Services** | A service platform for residential and small-business networking, cameras, and technology support. | IT & Networking |
+| **IncomeOS** | A personal finance application for budgeting, irregular income, expenses, and planning. | Personal Finance |
+| **Rigora** | An exhibit-operations platform for shop-floor workflow, QC, workstations, manifests, photos, and handoffs. | Operations Management |
+| **Folio** | A local-first photo and video library for organizing, browsing, editing, and managing media. | Media Management |
+| **Stagecraft** | A macOS project focused on media playback, visual composition, and live-production tools. | Live Production |
 
 [**Explore My Public Repositories**](https://github.com/inscious?tab=repositories)
 
@@ -68,9 +71,9 @@ Some repositories are private because they're still being developed, but I enjoy
 
 </div>
 
-I've worked with or explored a variety of technologies through personal projects, learning, and experimentation.
+I use different technologies depending on the project and what I'm trying to build.
 
-I'm still learning many of them, and I don't claim to be an expert. I enjoy gaining experience and understanding how different tools and technologies work together.
+I'm still learning a lot of them, but I've been getting more experience by using them in real projects instead of only tutorials or isolated exercises.
 
 ### Web Development
 
@@ -108,19 +111,26 @@ I'm still learning many of them, and I don't claim to be an expert. I enjoy gain
 
 ## 🧠 How I Approach Projects
 
-**Idea → Research → Prototype → Test → Improve → Learn**
+**Idea → Research → Prototype → Test → Improve**
 
-Most of my projects begin with a simple idea or a problem I'd like to solve.
+Most projects start with something I want to solve, automate, or make easier.
 
-I enjoy researching possible solutions, planning how things should work, experimenting with different approaches, and gradually turning an idea into something functional.
+I usually begin by figuring out what the workflow should actually be before worrying too much about the final architecture.
 
-I spend a lot of time reviewing interfaces, testing features, finding bugs, and figuring out how to improve the overall experience.
+Once something works, I spend time testing it, finding weak points, cleaning up the logic, and improving the interface.
 
-AI coding tools have made it possible for me to explore projects that would have been much harder to approach on my own. They've also encouraged me to learn more about software architecture, development practices, and the technical decisions behind the applications I'm building.
+As projects get larger, I put more attention into things like:
 
-One of my personal goals is to become more comfortable reading, understanding, debugging, and writing code without relying entirely on these tools.
+- data consistency
+- testing
+- security
+- migrations
+- performance
+- reusable UI patterns
+- deployment workflows
+- keeping development organized
 
-I'm interested in building things that are useful, reliable, and enjoyable to use.
+I use AI-assisted development tools as part of that process, but I'm also trying to improve my own understanding of the code, architecture, and decisions behind the systems I'm building.
 
 ---
 
@@ -148,7 +158,7 @@ I'm interested in building things that are useful, reliable, and enjoyable to us
 
 </div>
 
-<sub>These statistics are generated from publicly available GitHub activity. Some personal projects and private repositories may not be represented.</sub>
+<sub>These statistics are generated from publicly available GitHub activity. Some private repositories and personal projects may not be represented.</sub>
 
 ---
 
@@ -176,11 +186,11 @@ I'm interested in building things that are useful, reliable, and enjoyable to us
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+### Thanks for checking out my profile.
 
-I'm always exploring new ideas, learning something different, and finding interesting things to build.
+Most of what I build starts with something I want to use, fix, automate, or understand better.
 
-*Stay curious. Keep experimenting. Never stop learning.*
+I'm usually working on a few projects at once and improving them as I learn more.
 
 [**Explore My Repositories**](https://github.com/inscious?tab=repositories)
 
