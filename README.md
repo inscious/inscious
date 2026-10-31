@@ -3,16 +3,13 @@
 
 # Hey, I'm Saul 👋
 
-### Technology Enthusiast | Hobbyist | Curious Builder
+### Technology Enthusiast | AV Technician | Curious Builder
 
-*Building practical software, experimenting with hardware, and learning by working on real projects.*
+*Turning ideas from work and everyday life into useful software experiments.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-inscious-181717?style=for-the-badge&logo=github)](https://github.com/inscious)
-
 ![San Diego](https://img.shields.io/badge/Based_in-San_Diego-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 ![Learning by Building](https://img.shields.io/badge/Approach-Learning_by_Building-238636?style=for-the-badge)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=inscious&style=for-the-badge)
 
 </div>
@@ -21,46 +18,88 @@
 
 ## 👋 A Little About Me
 
-I'm interested in software, networking, AV systems, computers, cameras, electronics, and the way hardware and software work together.
+I work with audiovisual technology and enjoy figuring out how computers, networking, cameras, displays, and software fit together.
 
-I first got into web development a few years ago. I stepped away from it for a while, but newer development tools made it easier for me to come back and start working on ideas I had been sitting on.
+A lot of my project ideas come from things I've seen firsthand: complicated schedules, missing information, repetitive tasks, or equipment that could be easier to manage.
 
-Most of the projects here come from something I actually wanted to use, improve, automate, or understand better.
+I explored web development a few years ago, then stepped away from it. More recently, AI coding tools made it possible for me to pick those ideas back up and build working prototypes. I spend a lot of time thinking through features, testing what works, fixing problems, and learning more about the code along the way.
 
-A lot of my time goes into planning how features should work, designing interfaces, testing behavior, finding problems, and improving the structure of the applications as they grow.
-
-I'm still building my programming skills and getting more comfortable reading, debugging, and writing code myself.
-
-My background and interests also go beyond software. I work with AV technology and spend a lot of time around networking, cameras, displays, computers, audio equipment, and other technical systems.
-
-I tend to enjoy projects most when they solve a real problem or connect software to something physical.
+I'm a hobbyist, not a professional software developer. The projects here are how I experiment, practice, and turn curiosity into something tangible.
 
 > **Build concrete. Design abstract.**
 >
-> Start with the real problem, get something working, then improve the structure as you understand it better.
+> Start with a real problem, get something working, and improve it as you learn.
 
 ---
 
-## 🛠️ Projects I'm Working On
+## 🛠️ What I'm Building
 
-These projects are at different stages. Some have working local builds or limited-access web functionality, while others are interactive prototypes that I'm still refining. I use them to experiment with real workflows, learn new tools, and improve my understanding of how software is built.
+Some projects are usable in local or limited environments. Others are interactive demonstrations or ideas I'm still developing. The examples below explain what each one is meant to help with.
 
-**Project status snapshot: October 2026.** A working prototype is not necessarily a public release. Some source code and development environments remain private.
+### 🗓️ Show Board
 
-| Project | What works or is being explored | Current stage |
+**Keeping work schedules, hours, and paperwork organized.**
+
+Built around the needs of crews and coordinators. Show Board brings schedules, work logs, apprenticeship training hours, and documents into one application. Instead of tracking everything in separate messages and spreadsheets, the goal is to keep the relevant information together.
+
+**Current stage:** Working web application with limited access. Core workflows are functioning, and I'm continuing to test and refine member and administrative features.
+
+### 🏗️ Rigora
+
+**Making busy exhibit shops easier to coordinate.**
+
+Rigora explores how a shop team can see what needs to be done, who's working on a station, what passed a quality check, and which details need to be handed over to the next person. It also includes photo-based progress and a display concept for the shop floor.
+
+**Current stage:** Advanced interactive prototype. The main workflows can be explored, but physical shop-floor testing is still pending.
+
+### 📷 Reticle
+
+**Experimenting with smarter camera control.**
+
+Reticle combines live camera viewing, remote movement controls, and experiments with tracking objects or people. I'm especially interested in making the controls reliable and keeping camera movements predictable.
+
+**Current stage:** Working local prototype. Video and control features have been tested, while tracking and safety behavior are still being refined.
+
+### 🤖 Development Command Center
+
+**Organizing projects and the AI agents helping build them.**
+
+As my projects grew, I wanted one place to track what was being built, what needed testing, which changes passed review, and what should happen next. Development Command Center explores that idea, with a longer-term goal of coordinating AI coding agents through repeatable workflows.
+
+**Current stage:** Local MVP. Project and workflow organization exists; more automated agent execution is still in development.
+
+### More Projects
+
+| Project | What it's for | Current stage |
 | :--- | :--- | :--- |
-| **Show Board** | A web application for show schedules, work logs, on-the-job training hours, documents, and role-based workflows. Core features are working, with additional member and administrative features still being tested and refined. | **Working web platform.** Active development with limited access. |
-| **Reticle** | A local camera-control project with live video, PTZ controls, tracking experiments, and safeguards around camera movement and failures. The focus is on reliability before broader use. | **Working local prototype.** Experimental and not publicly released. |
-| **Development Command Center** | A local workspace for organizing projects, task contracts, verification results, and development handoffs. The longer-term goal is more automated, configurable agent workflows. | **Local MVP.** Core workflows work; agent automation is still being developed. |
-| **Field Technology Services** | An interactive website prototype for home and small-business technology services, including service information and customer-facing pages. | **Website prototype.** Pre-launch, not a confirmed live booking service. |
-| **IncomeOS** | An early application for budgeting around irregular income, tracking expenses, and planning ahead. A local codebase and build checks exist, but the experience is still being developed. | **Early local development.** Not publicly released. |
-| **Rigora** | An interactive exhibit-operations prototype covering shifts, workstation tasks, quality checks, photos, handoffs, and a shop-floor display concept. Several workflows can be explored in the prototype. | **Advanced interactive prototype.** Real-world shop-floor and display testing is still pending. |
-| **Folio** | An interactive photo and video library prototype with media grouping, browsing, basic editing, exporting, and slideshow features. | **Interactive prototype.** Being refined before a fuller application release. |
-| **Stagecraft** | A native macOS experiment with media playback, visual composition, preview/program views, cues, and show-control tools. Core local functionality is working. | **Working local macOS prototype.** External-display and live-use validation remain in progress. |
+| **Field Technology Services** | A website concept for home and small-business help with Wi-Fi, networking, cameras, and related technology. | Interactive website prototype; pre-launch. |
+| **IncomeOS** | Planning spending and expenses when income varies from month to month. | Early local development. |
+| **Folio** | Organizing, browsing, editing, and exporting photos and videos in a local-first library. | Interactive prototype. |
+| **Stagecraft** | Exploring media playback, visuals, cues, and show-control tools on macOS. | Working local prototype; further live-use testing needed. |
 
-**About availability:** "Working" means a feature has been implemented or tested in a local or limited environment. It does not mean the app is ready to download, commercially available, or open for public sign-ups.
+<sub>Project snapshot: October 2026. Working locally or in a prototype does not mean a project is publicly released. Some source repositories and test environments are private.</sub>
 
 [**Explore My Public Repositories**](https://github.com/inscious?tab=repositories)
+
+---
+
+## 🤝 How I Build With AI Coding Agents
+
+AI coding agents are a big part of how I work on these ideas. They help translate feature plans into code, run checks, find issues, and review changes. My part is deciding what the product should do, testing the results, and making the calls about what needs to change.
+
+Here's what that often looks like:
+
+**1. Find a problem.** I start with something I want to improve, usually inspired by work or a personal project.
+
+**2. Sketch the experience.** I work out who would use it and what they should be able to do.
+
+**3. Build a working version.** I use coding agents to help implement features and connect the different pieces.
+
+**4. Test and review.** I try the features myself, reproduce bugs, and use separate reviews and tests to catch problems.
+
+**5. Improve it.** I keep refining the interface, reliability, and overall workflow based on what I learn.
+
+I still want to become more confident reading, debugging, and writing code myself. Using these tools has given me a practical way to keep learning while building things I care about.
 
 ---
 
@@ -72,115 +111,34 @@ These projects are at different stages. Some have working local builds or limite
 
 </div>
 
-I use different technologies depending on the project and what I'm trying to build.
+These are tools and technologies I've used or explored across projects, not a list of expert-level qualifications.
 
-I'm still learning a lot of them, but I've been getting more experience by using them in real projects instead of only tutorials or isolated exercises.
-
-### Web Development
-
-- HTML and CSS
-- JavaScript and TypeScript
-- React and Next.js
-- Node.js
-- Tailwind CSS
-
-### Databases & Development Tools
-
-- PostgreSQL
-- Git and GitHub
-- API integration
-- Automated testing
-- Development workflows and automation
-
-### Systems & Networking
-
-- macOS and Linux
-- Computer networking
-- DNS and VLANs
-- IP cameras and NVR systems
-- Local servers and self-hosted applications
-
-### Creative Technology
-
-- Audio and video production
-- Media management
-- Computer vision
-- Live event technology
-- Desktop applications
+- **Web and apps:** HTML, CSS, JavaScript, TypeScript, React, and Next.js
+- **Data and development:** PostgreSQL, Git, GitHub, APIs, and testing
+- **Systems and hardware:** macOS, Linux, networking, DNS, VLANs, IP cameras, and local servers
+- **Creative technology:** Audio, video, media management, and live event systems
 
 ---
 
-## 🧠 How I Approach Projects
+## 🔭 What I'm Exploring Next
 
-**Idea → Research → Prototype → Test → Improve**
-
-Most projects start with something I want to solve, automate, or make easier.
-
-I usually begin by figuring out what the workflow should actually be before worrying too much about the final architecture.
-
-Once something works, I spend time testing it, finding weak points, cleaning up the logic, and improving the interface.
-
-As projects get larger, I put more attention into things like:
-
-- data consistency
-- testing
-- security
-- migrations
-- performance
-- reusable UI patterns
-- deployment workflows
-- keeping development organized
-
-I use AI-assisted development tools as part of that process, but I'm also trying to improve my own understanding of the code, architecture, and decisions behind the systems I'm building.
+- Tools that make work easier for technicians and shop teams
+- More reliable camera and hardware control
+- Local-first apps for organizing personal media and information
+- Better ways to test, review, and coordinate AI-assisted projects
+- More hands-on coding practice as I build
 
 ---
 
-## 🔭 Current Interests
+## 📊 GitHub Activity & Achievements
 
-- Software for technicians, contractors, and field operations
-- Desktop applications and personal productivity tools
-- Privacy-focused applications and local data storage
-- Computer networking and home lab projects
-- IP cameras, automation, and computer vision
-- Audio, video, and live production technology
-- Hardware and software integration
-- Development tools and project automation
-- Improving my programming and problem-solving skills
-
----
-
-
-## 📊 GitHub Activity
+GitHub is where I keep my public experiments and track how these projects evolve. Some of my ongoing work happens in private repositories.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=inscious&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" height="180" />
+[![Public Repositories](https://img.shields.io/badge/Explore-Public_Repositories-0969DA?style=for-the-badge&logo=github)](https://github.com/inscious?tab=repositories)
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=inscious&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" height="180" />
-
-</div>
-
-<sub>Statistics are based on available public GitHub activity. Private projects may not be included.</sub>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![GitHub Achievements](https://img.shields.io/badge/View-My_GitHub_Achievements-6f42c1?style=for-the-badge&logo=github)](https://github.com/inscious?tab=achievements)
-
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@inscious-181717?style=for-the-badge&logo=github)](https://github.com/inscious)
-
-[![Repositories](https://img.shields.io/badge/Explore-Repositories-0969DA?style=for-the-badge&logo=github)](https://github.com/inscious?tab=repositories)
+[![GitHub Achievements](https://img.shields.io/badge/View-My_Achievements-6f42c1?style=for-the-badge&logo=github)](https://github.com/inscious?tab=achievements)
 
 </div>
 
@@ -188,12 +146,12 @@ I use AI-assisted development tools as part of that process, but I'm also trying
 
 <div align="center">
 
-### Thanks for checking out my profile.
+### Thanks for checking out my profile! 👋
 
-Most of what I build starts with something I want to use, fix, automate, or understand better.
+Most of what I build starts with something I'd like to use, fix, automate, or understand better.
 
-I'm usually working on a few projects at once and improving them as I learn more.
+*Stay curious. Keep experimenting. Keep learning.*
 
-[**Explore My Repositories**](https://github.com/inscious?tab=repositories)
+[**Visit My GitHub Profile**](https://github.com/inscious)
 
 </div>
