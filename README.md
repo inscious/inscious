@@ -149,19 +149,19 @@ I use AI-assisted development tools as part of that process, but I'm also trying
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inscious&show_icons=true&hide_border=true&theme=transparent)
+<img src="https://github-stats-extended.vercel.app/api?username=inscious&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" height="180" />
 
-![Top Public Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inscious&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=inscious&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" height="180" />
 
 </div>
 
-<sub>These statistics are generated from publicly available GitHub activity. Some private repositories and personal projects may not be represented.</sub>
+<sub>Statistics are based on available public GitHub activity. Private projects may not be included.</sub>
 
----
 
 ## 🏆 GitHub Achievements
 
