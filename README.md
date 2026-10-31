@@ -162,6 +162,7 @@ I use AI-assisted development tools as part of that process, but I'm also trying
 
 <sub>Statistics are based on available public GitHub activity. Private projects may not be included.</sub>
 
+---
 
 ## 🏆 GitHub Achievements
 
